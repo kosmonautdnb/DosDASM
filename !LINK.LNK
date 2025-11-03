@@ -1,0 +1,15 @@
+system dos4g 
+option STack=32000 
+file ERRORS.OBJ 
+file UTIL.OBJ 
+file OPS.OBJ 
+file SYMBOLS.OBJ 
+file GLOBALS.OBJ 
+file EXP.OBJ 
+file MNE6303.OBJ 
+file MNE6502.OBJ 
+file MNE6811.OBJ 
+file MNE68705.OBJ 
+file MNE68908.OBJ 
+file MNEF8.OBJ 
+file MAIN.OBJ 
